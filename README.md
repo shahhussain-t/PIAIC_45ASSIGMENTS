@@ -30,8 +30,12 @@
 <p>You should create four lines that look like this:
 <br>
 <b>console.log(5 + 3)</b>
-
 </p>
+<hr/>
+
+<h1>project008</h1>
+<p>9.Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.</p>
+
 <hr/>
 
 
