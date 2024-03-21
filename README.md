@@ -68,7 +68,7 @@
 
 
 <h1>project014</h1>
-<p><b>Changing Guest List:</b> You just heard that one of your guests can’t make the dinner, so you need to send out a new set of invitations. You’ll have to think of someone else to invite.
+<p>15.<b>Changing Guest List:</b> You just heard that one of your guests can’t make the dinner, so you need to send out a new set of invitations. You’ll have to think of someone else to invite.
 <br>
 
 • Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
@@ -85,7 +85,7 @@
 
 <h1>project015</h1>
 
-<p><b>More Guests:</b> You just found a bigger dinner table, so now more space is available. Think of three more guests to invite to dinner.
+<p>16.<b>More Guests:</b> You just found a bigger dinner table, so now more space is available. Think of three more guests to invite to dinner.
 <br>
 • Start with your program from Exercise 15. Add a print statement to the end of your program informing people that you found a bigger dinner table.
 <br>
@@ -98,7 +98,7 @@
 <hr>
 
 <h1>project016</h1>
-<p><b>Shrinking Guest List: </b> You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
+<p>17.<b>Shrinking Guest List: </b> You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
 <br>
 • Start with your program from Exercise 16. Add a new line that prints a message saying that you can invite only two people for dinner.
 <br>
@@ -113,7 +113,7 @@
 
 
 <h1>project017</h1>
-<p>Seeing the World: Think of at least five places in the world you’d like to visit.
+<p>18.Seeing the World: Think of at least five places in the world you’d like to visit.
 <br>
 • Store the locations in a array. Make sure the array is not in alphabetical order.
 <br>
@@ -148,5 +148,12 @@
 
 <hr/>
 
+
+
+<h1>project018</h1>
+
+<p>19.Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner.<p/>
+
+<hr>
 
 
