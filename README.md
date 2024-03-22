@@ -213,7 +213,7 @@ console.log(car == 'subaru')
 <hr>
 
 
-<h1>project023</h1>
+<h1>project024</h1>
 
 <p>25.Alien Colors #1: Imagine an alien was just shot down in a game. Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
 <br>
