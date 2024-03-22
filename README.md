@@ -397,6 +397,24 @@ console.log(car == 'subaru')
 <hr>
 
 
+<h1>project038</h1>
+
+<p>39.City Names: Write a function called city_country() that takes in the name of a city and its country. The function should return a string formatted like this:
+<br>
+
+<br>
+
+"Lahore, Pakistan"
+<br>
+<br>
+
+Call your function with at least three city-country pairs, and print the value that’s returned.
+
+</p>
+
+<hr>
+
+
 
 
 
