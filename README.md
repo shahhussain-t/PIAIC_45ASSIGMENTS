@@ -159,15 +159,18 @@
 <h1>project019</h1>
 
 <p>20.Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
+</p>
 <hr>
 <h1>project020</h1>
 
 <p>21.They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+</p>
 <hr>
 
 <h1>project021</h1>
 
 <p>22.Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program.
+</p>
 
 <hr>
 
@@ -184,6 +187,7 @@ console.log(car == 'subaru')
 • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 <br>
 • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
+</p>
 
 <hr>
 
@@ -204,7 +208,22 @@ console.log(car == 'subaru')
 <br>
 • Test whether an item is not in a array
 
+</p>
+
 <hr>
+
+
+<h1>project023</h1>
+
+<p>25.Alien Colors #1: Imagine an alien was just shot down in a game. Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
+<br>
+• Write an if statement to test whether the alien’s color is green. If it is, print a message that the player just earned 5 points.
+<br>
+• Write one version of this program that passes the if test and another that fails. (The version that fails will have no output.)
+</p>
+
+<hr>
+
 
 
 
