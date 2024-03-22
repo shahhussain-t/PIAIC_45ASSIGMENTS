@@ -158,7 +158,12 @@
 
 <h1>project019</h1>
 
-<p>19.Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
+<p>20.Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
 <hr>
+<h1>project020</h1>
+
+<p>21.They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+<hr>
+
 
 
