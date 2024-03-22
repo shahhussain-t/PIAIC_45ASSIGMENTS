@@ -171,7 +171,7 @@
 
 <hr>
 
-<h1>project023</h1>
+<h1>project022</h1>
 
 <p>23.Conditional Tests: Write a series of conditional tests. Print a statement describing each test and your prediction for the results of each test. Your code should look something like this:
 <br>
@@ -186,6 +186,26 @@ console.log(car == 'subaru')
 • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
 
 <hr>
+
+
+<h1>project023</h1>
+
+<p>24.More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following:
+<br>
+• Tests for equality and inequality with strings
+<br>
+• Tests using the lower case function
+<br>
+• Numerical tests involving equality and inequality, greater than and less than, greater than or equal to, and less than or equal to
+<br>
+• Tests using "and" and "or" operators
+<br>
+• Test whether an item is in a array
+<br>
+• Test whether an item is not in a array
+
+<hr>
+
 
 
 
