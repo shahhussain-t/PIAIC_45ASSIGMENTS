@@ -17,6 +17,10 @@
 <hr/>
 <h1>project002</h1>
 <p>3.Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.</p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project002-output.PNG" width="500" >
+</div>
 <hr/>
 <h1>project003</h1>
 <p>4.Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look
