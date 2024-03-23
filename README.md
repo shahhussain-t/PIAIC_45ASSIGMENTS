@@ -10,6 +10,10 @@
 <h1>Project001</h1>
 <p>2.Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project001-output.PNG" width="500" >
+</div>
 <hr/>
 <h1>project002</h1>
 <p>3.Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.</p>
@@ -22,10 +26,7 @@
 </quote>
 </p>
 
-<h2>Output:</h2>
-<div>
-<img src="/assets/images/project001-output.PNG" width="500" >
-</div>
+
 <hr>
 
 <h1>project004</h1>
