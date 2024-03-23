@@ -6,7 +6,7 @@
     <p><b>npx shah-calculator</b></p>
     <h3>output:</h3>
     <div>
-        <img src="../assets/images/project00_calculator-output.PNG"  width="500">
+        <img src="../assets/images/project00_calculator-output.PNG"  width="500" height="500">
     </div>
     
 </div>
@@ -23,7 +23,7 @@ Create a GitHub repository for the project and submit its URL in the project sub
     <h3>output:</h3>
     <div>
        
-<img src="../assets/images/project01_number_guessing-game-output.PNG"  width="500">
+<img src="../assets/images/project01_number_guessing-game-output.PNG"  width="500" height="500">
     </div>
     
 </div>
