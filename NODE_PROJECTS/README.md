@@ -41,7 +41,7 @@ Create a GitHub repository for the project and submit its URL in the project sub
 <p>userPin:1234</p>
 <h4>For more see the userData.json</h4>
     <h3>NPX command:</h3>
-    <p><b>shah-project02_atm</b></p>
+    <p><b>npx shah-project02_atm</b></p>
     <h3>output:</h3>
     <div>
        
