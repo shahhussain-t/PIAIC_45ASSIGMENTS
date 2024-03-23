@@ -2,6 +2,9 @@
 <h1>Project000</h1>
 <p>1.Envoirment setup
 </p>
+<div>
+<img src="/assets/images/enviorment-setup.PNG" width="100" height="100">
+</div>
 <hr/>
 
 <h1>Project001</h1>
