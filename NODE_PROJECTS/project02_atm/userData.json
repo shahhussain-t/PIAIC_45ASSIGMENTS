@@ -1,0 +1,52 @@
+[
+    {
+        "userID": 100001,
+        "userPin": "1234",
+        "balance": 500.00
+    },
+    {
+        "userID": 100002,
+        "userPin": "4321",
+        "balance": 1000.00
+    },
+    {
+        "userID": 100003,
+        "userPin": "5678",
+        "balance": 750.00
+    },
+    {
+        "userID": 100004,
+        "userPin": "8765",
+        "balance": 1500.00
+    },
+    {
+        "userID": 100005,
+        "userPin": "2468",
+        "balance": 300.00
+    },
+    {
+        "userID": 100006,
+        "userPin": "1357",
+        "balance": 2000.00
+    },
+    {
+        "userID": 100007,
+        "userPin": "9876",
+        "balance": 1200.00
+    },
+    {
+        "userID": 100008,
+        "userPin": "5432",
+        "balance": 800.00
+    },
+    {
+        "userID": 100009,
+        "userPin": "7890",
+        "balance": 1800.00
+    },
+    {
+        "userID": 100010,
+        "userPin": "3690",
+        "balance": 950.00
+    }
+]

@@ -27,3 +27,25 @@ Create a GitHub repository for the project and submit its URL in the project sub
     </div>
     
 </div>
+
+
+<div>
+    <h1>project02_atm</h1>
+    <h2>ATM</h2>
+    <p>This somewhat complex TypeScript/Node.js project is a console-based application. When the system starts the user is prompted with a user id and user pin. After entering the details successfully, the ATM functionalities are unlocked. All the user data is generated randomly.
+ <br>
+</p>
+
+<h2>Want to login:</h2>
+<p>userId: 100001</p>
+<p>userPin:1234</p>
+<h4>For more see the userData.json</h4>
+    <h3>NPX command:</h3>
+    <p><b>shah-project02_atm</b></p>
+    <h3>output:</h3>
+    <div>
+       
+<img src="../assets/images/project02_atm-output.PNG"  width="600" >
+    </div>
+    
+</div>
