@@ -1,3 +1,9 @@
+
+<h1>Project000</h1>
+<p>1.Envoirment setup
+</p>
+<hr/>
+
 <h1>Project001</h1>
 <p>2.Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
 </p>
