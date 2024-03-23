@@ -3,7 +3,7 @@
 <p>1.Envoirment setup
 </p>
 <div>
-<img src="/assets/images/enviorment-setup.PNG" width="100" height="100">
+<img src="/assets/images/enviorment-setup.PNG" width="300" >
 </div>
 <hr/>
 
