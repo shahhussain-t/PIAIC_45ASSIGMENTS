@@ -29,5 +29,3 @@ console.log("Is isNull !== null? I predict False.");
 console.log(isNull !== null);
 console.log("Is isNan(age)? I predict False.");
 console.log(isNaN(age));
-console.log("Is novalue !==undefinded? I predict False.");
-console.log(novalue !== undefined);

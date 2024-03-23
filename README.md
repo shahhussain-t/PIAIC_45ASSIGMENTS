@@ -135,6 +135,10 @@
 <p>14.<b>Guest List:</b>If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project013-output.PNG" width="500" >
+</div>
 <hr/>
 
 
@@ -147,6 +151,10 @@
 • Modify your list, replacing the name of the guest who can’t make it with the name of the new person you are inviting.
 <br>
 • Print a second set of invitation messages, one for each person who is still in your list.</p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project014-output.PNG" width="500" >
+</div>
 
 <hr/>
 
@@ -165,6 +173,11 @@
 <br>
 
 • Add one new guest to the middle of your array. • Use append() to add one new guest to the end of your list. • Print a new set of invitation messages, one for each person in your list.</p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project015-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -178,6 +191,11 @@
 • Print a message to each of the two people still on your list, letting them know they’re still invited.
 <br>
 • Remove the last two names from your list, so you have an empty list. Print your list to make sure you actually have an empty list at the end of your program.</p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project016-output.PNG" width="500" >
+</div>
+
 
 <hr/>
 
@@ -216,6 +234,11 @@
 • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project017-output.PNG" width="500" >
+</div>
+
 
 <hr/>
 
@@ -224,6 +247,11 @@
 <h1>project018</h1>
 
 <p>19.Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner.<p/>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project018-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -231,17 +259,32 @@
 
 <p>20.Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project019-output.PNG" width="500" >
+</div>
+
 <hr>
 <h1>project020</h1>
 
 <p>21.They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project020-output.PNG" width="500" >
+</div>
+
 <hr>
 
 <h1>project021</h1>
 
 <p>22.Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program.
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project021-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -259,6 +302,11 @@ console.log(car == 'subaru')
 <br>
 • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project022-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -280,6 +328,11 @@ console.log(car == 'subaru')
 • Test whether an item is not in a array
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project023-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -292,6 +345,12 @@ console.log(car == 'subaru')
 <br>
 • Write one version of this program that passes the if test and another that fails. (The version that fails will have no output.)
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project024-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -306,6 +365,12 @@ console.log(car == 'subaru')
 <br>
 • Write one version of this program that runs the if block and another that runs the else block.
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project025-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -324,6 +389,11 @@ console.log(car == 'subaru')
 
 • Write three versions of this program, making sure each message is printed for the appropriate color alien.
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project026-output.PNG" width="500" >
+</div>
 
 <hr>
 
@@ -346,6 +416,12 @@ console.log(car == 'subaru')
 • If the person is age 65 or older, print a message that the person is an elder.
 </p>
 
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project027-output.PNG" width="500" >
+</div>
+
+
 <hr>
 
 
@@ -360,6 +436,12 @@ console.log(car == 'subaru')
 • Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement, such as You really like bananas!
 </p>
 
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project028-output.PNG" width="500" >
+</div>
+
+
 <hr>
 
 <h1>project029</h1>
@@ -370,6 +452,12 @@ console.log(car == 'subaru')
 <br>
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project029-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -383,6 +471,12 @@ console.log(car == 'subaru')
 
 • Remove all of the usernames from your array, and make sure the correct message is printed.
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project030-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -401,6 +495,12 @@ console.log(car == 'subaru')
 • Make sure your comparison is case insensitive. If 'John' has been used, 'JOHN' should not be accepted.
 </p>
 
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project031-output.PNG" width="500" >
+</div>
+
+
 <hr>
 
 
@@ -414,6 +514,11 @@ console.log(car == 'subaru')
 <br>
 • Use an if-else chain inside the loop to print the proper ordinal ending for each number. Your output should read "1st 2nd 3rd 4th 5th 6th 7th 8th 9th", and each result should be on a separate line.
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project032-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -427,6 +532,11 @@ console.log(car == 'subaru')
 <br>
 • Add a line at the end of your program, outside the for loop, that states how much you like pizza. The output should consist of three or more lines about the kinds of pizza you like and then an additional sentence, such as I really love pizza!
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project033-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -439,6 +549,12 @@ console.log(car == 'subaru')
 
 </p>
 
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project034-output.PNG" width="500" >
+</div>
+
+
 <hr>
 
 <h1>project035</h1>
@@ -448,6 +564,11 @@ console.log(car == 'subaru')
 
 </p>
 
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project035-output.PNG" width="500" >
+</div>
+
 <hr>
 
 
@@ -456,6 +577,11 @@ console.log(car == 'subaru')
 <p>37.Large Shirts: Modify the make_shirt() function so that shirts are large by default with a message that reads I love TypeScript. Make a large shirt and a medium shirt with the default message, and a shirt of any size with a different message.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project036-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -464,6 +590,12 @@ console.log(car == 'subaru')
 <p>38.Cities: Write a function called describe_city() that accepts the name of a city and its country. The function should print a simple sentence, such as Karachi is in Pakistan. Give the parameter for the country a default value. Call your function for three different cities, at least one of which is not in the default country.
 
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project037-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -482,6 +614,11 @@ console.log(car == 'subaru')
 Call your function with at least three city-country pairs, and print the value that’s returned.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project038-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -493,6 +630,11 @@ Call your function with at least three city-country pairs, and print the value t
 
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project039-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -501,6 +643,11 @@ Call your function with at least three city-country pairs, and print the value t
 <p>41.Magicians: Make a array of magician’s names. Pass the array to a function called show_magicians(), which prints the name of each magician in the array.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project040-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -510,6 +657,11 @@ Call your function with at least three city-country pairs, and print the value t
 <p>42.Great Magicians: Start with a copy of your program from Exercise 39. Write a function called make_great() that modifies the array of magicians by adding the phrase the Great to each magician’s name. Call show_magicians() to see that the list has actually been modified.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project041-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -520,6 +672,11 @@ Call your function with at least three city-country pairs, and print the value t
 <p>43.Unchanged Magicians: Start with your work from Exercise 40. Call the function make_great() with a copy of the array of magicians’ names. Because the original array will be unchanged, return the new array and store it in a separate array. Call show_magicians() with each array to show that you have one array of the original names and one array with the Great added to each magician’s name.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project042-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -528,6 +685,11 @@ Call your function with at least three city-country pairs, and print the value t
 <p>44.Sandwiches: Write a function that accepts a array of items a person wants on a sandwich. The function should have one parameter that collects as many items as the function call provides, and it should print a summary of the sandwich that is being ordered. Call the function three times, using a different number of arguments each time.
 
 </p>
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project043-output.PNG" width="500" >
+</div>
+
 
 <hr>
 
@@ -537,6 +699,12 @@ Call your function with at least three city-country pairs, and print the value t
 <p>45.Cars: Write a function that stores information about a car in a Object. The function should always receive a manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with the required information and two other name-value pairs, such as a color or an optional feature. Print the Object that’s returned to make sure all the information was stored correctly.
 
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project044-output.PNG" width="500" >
+</div>
+
 
 <hr>
 

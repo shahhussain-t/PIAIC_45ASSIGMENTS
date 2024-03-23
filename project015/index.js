@@ -11,6 +11,7 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
 };
 //• Add one new guest to the beginning of your array.
 //• Add one new guest to the middle of your array. • Use append() to add one new guest to the end of your list. • Print a new set of invitation messages, one for each person in your list.
+// previus exercis code
 var guest_list = ['shahwaiz Tahir', 'Manzar abbas', 'Maaz', 'Basit', 'ahmed'];
 console.log("\n******Guest we invited******\n");
 for (var _i = 0, guest_list_1 = guest_list; _i < guest_list_1.length; _i++) {
@@ -28,6 +29,7 @@ for (var _a = 0, newGuestList_1 = newGuestList; _a < newGuestList_1.length; _a++
     var guestname = newGuestList_1[_a];
     console.log("".concat(guestname, ", initing them to dinner\n"));
 }
+// we found biger dinner table
 console.log("\n*****we Found a bigger dinner table******\n");
 var middle_of_array = Math.floor((newGuestList.length) / 2);
 newGuestList.unshift("muneeb");
