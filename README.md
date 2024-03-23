@@ -21,6 +21,11 @@
 
 </quote>
 </p>
+
+<h2>Output:</h2>
+<div>
+<img src="/assets/images/project001-output.PNG" width="500" >
+</div>
 <hr>
 
 <h1>project004</h1>
